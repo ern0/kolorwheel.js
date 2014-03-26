@@ -1,6 +1,5 @@
 kolorwheel.js
 =============
-Color palette generator JavaScript library
 
 This small javascript library is designed for developers,
 who have no talent and time to create
