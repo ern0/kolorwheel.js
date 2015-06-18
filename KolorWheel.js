@@ -4,7 +4,6 @@
 // started 2014.03.04 
 // updated 2014.03.24
 
-
 	function KolorWheel(color) {
 
 		this.resultList = [this];
