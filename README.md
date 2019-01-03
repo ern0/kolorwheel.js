@@ -1,3 +1,5 @@
+![KolorWheel.js](.github/header.png)
+
 kolorwheel.js
 =============
 
